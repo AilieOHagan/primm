@@ -36,7 +36,7 @@ This tool is particularly useful for collections containing multiple items, or m
 ![image](https://github.com/mohagan9/primm/assets/30199063/996dfc61-dd98-4e7f-a30c-220c17cb80f4)
 
 
-3. Open PRIMM-1.0-SNAPSHOT.jar and in the dialogue box, enter the title of the XML file to be processed. Click “Run”. 
+3. Open PRIMM-1.0.0.jar and in the dialogue box, enter the title of the XML file to be processed. Click “Run”. 
 
 ![image](https://github.com/mohagan9/primm/assets/30199063/9b3f0a42-4136-4750-96ec-73c480fc4766)
 
